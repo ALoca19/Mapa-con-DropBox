@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title></title>
+<script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+</head>
+<body>
+<h1 style="font-size: 80px;"> Crear mapa con MapBox</h1>
+<div id='map' style='width: 960px; height: 540px;'></div>
+<div id="info"></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiZXZpbG5hcHNpcyIsImEiOiJjazM2MHZtbXcwNm11M25reGY3NW1zMHhhIn0.FoA72lWHT4bXe2jxfH5uvQ';
+
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/streets-v11',
+center: [-102.6167,22.78375], // starting position
+zoom: 5
+});
+
+var marker = new mapboxgl.Marker().setLngLat([-102.6167,22.78375]).addTo(map);
+var marker = new mapboxgl.Marker().setLngLat([-102.6165,22.78381]).addTo(map);
+
+var marker = new mapboxgl.Marker().setLngLat([-102.613385,22.781728]).addTo(map);
+var marker = new mapboxgl.Marker().setLngLat([-102.620160,22.781728]).addTo(map);
+var marker = new mapboxgl.Marker().setLngLat([-102.620160,22.784744]).addTo(map);
+var marker = new mapboxgl.Marker().setLngLat([-102.613385,22.784744]).addTo(map);
+//var marker2 = new mapboxgl.Marker().setLngLat([-98, 17]).addTo(map);
+
+map.on('mousemove', function (e) {
+document.getElementById('info').innerHTML =
+JSON.stringify(e.lngLat.wrap());
+});
+
+</script>
+
+</body>
+</html>

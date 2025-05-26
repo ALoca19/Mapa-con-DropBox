@@ -1,0 +1,222 @@
+
+{
+	"Puntos":
+	[
+ 		
+
+{"NombrePunto": "Entrada", "x": 1502.36, "y": 52.5959, "z": 660.98389},
+{"NombrePunto": "Gobierno", "x": -33.2, "y": 14.2959, "z": 302.43889},
+{"NombrePunto": "piso 1", "x": -362.8, "y": 23.6959, "z": 323.89489},
+{"NombrePunto": "piso 2", "x": -349.9, "y": 16.4059, "z": 321.48389},
+{"NombrePunto": "Recursos Materiales 034-035", "x": -349.2, "y": 23.6959, "z": 346.77989},
+{"NombrePunto": "Sala de consejo 025", "x": -384.7, "y": 23.6959, "z": 355.79389},
+{"NombrePunto": "Recursos Financieros 019", "x": -393.8, "y": 23.6959, "z": 373.23489},
+{"NombrePunto": "Subdireccion 020-008", "x": -390.1, "y": 23.6959, "z": 385.11389},
+{"NombrePunto": "Direccion 010", "x": -372.9, "y": 23.6959, "z": 401.28389},
+{"NombrePunto": "Sala de juntas 009", "x": -381.5, "y": 23.6959, "z": 393.03889},
+{"NombrePunto": "Gestion Escolar 010", "x": -375.4, "y": 16.4059, "z": 327.34489},
+{"NombrePunto": "Psicologia/Orientacion juvenil 031", "x": -363.6, "y": 16.4059, "z": 340.67989},
+{"NombrePunto": "Consultorio Medico 027-028", "x": -351.3, "y": 16.4059, "z": 341.65589},
+{"NombrePunto": "Biblioteca 007", "x": -363.4, "y": 16.4059, "z": 353.41289},
+{"NombrePunto": "Decano 004", "x": -390.4, "y": 19.0979, "z": 385.97489},
+{"NombrePunto": "algun docente 004", "x": -389.8, "y": 16.4059, "z": 381.37789},
+{"NombrePunto": "Videoteca 005", "x": -385.0, "y": 16.4059, "z": 384.71889},
+{"NombrePunto": "Auditorio 026", "x": -243.9, "y": 16.4059, "z": 345.84689},
+
+
+{"NombrePunto":"Aulas Cecyt Entrada 01","x": 781.02, "y": 25.3259, "z": 342.06089},
+{"NombrePunto":"Aulas Cecyt Entrada 02","x": 885.046, "y": 25.3259, "z": 343.02589},
+{"NombrePunto":"Salon 003","x": 778.09, "y": 42.1959, "z": 357.47389},
+{"NombrePunto":"Salon 008","x": 792.96, "y": 42.1959, "z": 357.28689},
+{"NombrePunto":"salon 009","x": 805.78, "y": 42.1959, "z": 357.16289},
+{"NombrePunto":"Salon 010","x": 819.0055, "y": 42.1959, "z": 356.21689},
+{"NombrePunto":"Salon 011","x": 833.376, "y": 42.1959, "z": 356.49589},
+{"NombrePunto":"Salon 012","x": 846.606, "y": 42.1959, "z": 356.64189},
+{"NombrePunto":"Salon 013","x": 860.512, "y": 42.1959, "z": 356.18389},
+{"NombrePunto":"Salon 015","x": 874.162, "y": 42.1959, "z": 357.91589},
+{"NombrePunto":"alfonzo 004","x": 879.278, "y": 42.1959, "z": 371.71689},
+{"NombrePunto":"Zarate 005","x": 881.518, "y": 42.1959, "z": 371.75589},
+{"NombrePunto":"jaciela 014","x": 880.487, "y": 42.1959, "z": 371.05089},
+{"NombrePunto":"Angelica 016","x": 880.57, "y": 42.1959, "z": 371.14789},
+{"NombrePunto":"Docentes algun","x": 879.635, "y": 42.1959, "z": 365.91289},
+{"NombrePunto":"DR Ramon 019","x": 879.635, "y": 42.1959, "z": 365.91389},
+
+
+
+
+
+	{"NombrePunto":"Aulas UPIIZ Entrada 01","x": 780.62, "y": 32.8959, "z": 269.61389},
+	{"NombrePunto":"Aulas UPIIZ Entrada 02","x": 883.462, "y": 32.8959, "z": 271.42389},
+	{"NombrePunto":"Salon 007","x": 777.087, "y": 34.6559, "z": 285.73959},
+	{"NombrePunto":"Salon 008","x": 792.897, "y": 34.6559, "z": 286.14649},
+	{"NombrePunto":"Salon 009","x": 807.031, "y": 34.6559, "z": 286.28059},
+	{"NombrePunto":"Salon 010","x": 819.5602, "y": 34.6559, "z": 285.9119},
+	{"NombrePunto":"Salon 011","x": 832.909, "y": 34.6559, "z": 285.56559},
+	{"NombrePunto":"Salon 012","x": 846.846, "y": 34.6559, "z": 285.77809},
+	{"NombrePunto":"Salon 13","x": 860.288, "y": 34.6559, "z": 285.76449},
+	{"NombrePunto":"Salon 15","x": 873.864, "y": 34.6559, "z": 285.63089},
+	{"NombrePunto":"al 004","x": 879.707, "y": 34.6559, "z": 300.499},
+	{"NombrePunto":"Seydy 005","x": 879.707, "y": 34.6559, "z": 300.499},
+	{"NombrePunto":"Victor 014","x": 878.981, "y": 34.6559, "z": 300.34089},
+	{"NombrePunto":"Rosendo 016","x": 878.981, "y": 34.6559, "z": 300.34189},
+	{"NombrePunto":"Carolina","x": 879.895, "y": 34.6559, "z": 295.105},
+	{"NombrePunto":"Fernando","x": 879.895, "y": 34.6559, "z": 295.10689},
+	{"NombrePunto":"Cafeteria","x": 1112.963, "y": 25.3959, "z": 393.63389},
+	{"NombrePunto":"Ligeros 1","x": 1186.623, "y": 33.1959, "z": 262.00389},
+	{"NombrePunto":"piso 1","x": 1174.958, "y": 44.0959, "z": 30176.38389},
+	
+
+
+
+	{"NombrePunto":"Computo 002","x": 1114.83, "y": 104.0959, "z": 311.49689},
+	{"NombrePunto":"Computo 003","x": 1164.56, "y": 104.0959, "z": 310.98389},
+	{"NombrePunto":"Computo 021","x": 1164.29, "y": 104.0959, "z": 295.36289},
+	{"NombrePunto":"Computo 020","x": 1113.71, "y": 104.0959, "z": 295.30189},
+	{"NombrePunto":"Electronica 032","x": 1113, "y": 104.0959, "z": 272.39389},
+	{"NombrePunto":"Electronica 033","x": 1164.52, "y": 104.0959, "z": 272.06389},
+	{"NombrePunto":"Fernando 007","x": 1116.98, "y": 104.0959, "z": 311.22489},
+	{"NombrePunto":"Karina 008","x": 1120.55, "y": 104.0959, "z": 310.98789},
+	{"NombrePunto":"Karmen 009","x": 1124.62, "y": 104.0959, "z": 310.78889},
+	{"NombrePunto":"Julia 012","x": 1160.28, "y": 104.0959, "z": 310.66389},
+
+
+{"NombrePunto":"Mayra 011","x": 1156.02,"y": 44.0959,"z": 311.35}
+{"NombrePunto":"Salon electronica 010","x": 1152.4,"y": 44.0959,"z": 312.78389}
+{"NombrePunto":"Salon electronica 016","x": 1152.4,"y": 44.0959,"z": 312.78389}
+{"NombrePunto":"Oliver 017","x": 1154.46,"y": 44.0959,"z": 294.60419}
+{"NombrePunto": "CID?? 018","x": 1158.31,"y": 44.0959,"z": 295.07489}
+{"NombrePunto":"Orno? 013","x": 1114.43,"y": 44.0959,"z": 293.27299}
+{"NombrePunto":"Efrain 014","x": 1117.41,"y": 44.0959,"z": 293.4059}
+{"NombrePunto":"Antonio Tenari 029","x": 1116.85,"y": 44.0959,"z": 272.46389}
+{"NombrePunto":"Aurelia Veyra 030","x": 1156.35,"y": 44.0959,"z": 271.53189}
+{"NombrePunto":"Flavio Mireles 031","x": 1160.02,"y": 44.0959,"z": 271.75389}
+{"NombrePunto":"piso 2","x": 1174.11,"y": 33.1959,"z": 256.67389}
+{"NombrePunto":"Biologia 002","x": 1113.67,"y": 33.0959,"z": 311.93189}
+{"NombrePunto":"Biologia 003","x": 1164.37,"y": 33.0959,"z": 311.11389}
+{"NombrePunto":"Aula de teoria 017","x": 1112.16,"y": 33.0959,"z": 296.01089}
+{"NombrePunto":"Quimica 020","x": 1162.8,"y": 33.0959,"z": 294.45689}
+
+
+
+{"NombrePunto":"Fisica 028","x": 1114.05, "y": 33.0959, "z": 272.50389},
+{"NombrePunto":"Quimica 029","x": 1163.3, "y": 33.0959, "z": 272.35389},
+{"NombrePunto":"Veronica seguria 005","x": 1120.15, "y": 33.0959, "z": 312.704},
+{"NombrePunto":"Dulce lopez 008","x": 1155.75, "y": 33.0959, "z": 312.4439},
+{"NombrePunto":"Veronica Esparza 009","x": 1160.2439, "y": 33.0959, "z": 312.38289},
+{"NombrePunto":"Carlos cuevas 010","x": 1114.939, "y": 33.0959, "z": 294.811},
+{"NombrePunto":"Daniel salia 022","x": 1115.44, "y": 33.0959, "z": 272.12389},
+{"NombrePunto":"Daniel afaniz 023","x": 1118.31, "y": 33.0959, "z": 272.10389},
+{"NombrePunto":"Paula mejia pada 029","x": 1162.84, "y": 33.0959, "z": 272.26389},
+{"NombrePunto":"Ligeros 2","x": 1185.24, "y": 33.1969, "z": 262.9039},
+{"NombrePunto":"piso 1","x": 1205.46, "y": 44.0959, "z": 287.7557},
+{"NombrePunto":"Electronica 3 002","x": 1218.29, "y": 44.0959, "z": 310.38389},
+
+
+
+
+{"NombrePunto":"Celex 003","x": 1256.57, "y": 44.0959, "z": 310.09689},
+{"NombrePunto":"CAN CAM CAE 024","x": 1207.1, "y": 44.0959, "z": 272.64389},
+{"NombrePunto":"Abel charrez 004","x": 1210.24, "y": 44.0959, "z": 311.57489},
+{"NombrePunto":"Adan oreday 005","x": 1213.92, "y": 44.0959, "z": 311.88389},
+{"NombrePunto":"Felipe Iturruga 006","x": 1217.48, "y": 44.0959, "z": 311.81789},
+{"NombrePunto":"Erika puirina 009","x": 1249.62, "y": 44.0959, "z": 311.31189},
+{"NombrePunto":"Sergio Domingez 018","x": 1207.53, "y": 44.0959, "z": 271.90311},
+{"NombrePunto":"Miguel F. peramez 019","x": 1210.37, "y": 44.0959, "z": 272.18389},
+{"NombrePunto":"Carlos D rafael 020","x": 1215.76, "y": 44.0959, "z": 271.36389},
+{"NombrePunto":"piso 2","x": 1194.52, "y": 33.1959, "z": 257.99389},
+{"NombrePunto":"Automatizacion y control 002","x": 1208.56, "y": 33.0959, "z": 314.91289},
+{"NombrePunto":"Automatizacion y control 003","x": 1256.69, "y": 33.0959, "z": 310.26989},
+
+
+{"NombrePunto":"UDI 019","x": 1210.18, "y": 33.0959, "z": 294.42489},
+{"NombrePunto":"Papeleria 020","x": 1256.73, "y": 33.0959, "z": 292.72139},
+{"NombrePunto":"Deporte y cultura 026","x": 1208.33, "y": 33.0959, "z": 272.51311},
+{"NombrePunto":"Dibujo 027","x": 1256.29, "y": 33.0959, "z": 271.18311},
+{"NombrePunto":"Jorge tedavera 007","x": 1210.72, "y": 33.0959, "z": 310.26089},
+{"NombrePunto":"Rafael reveles 008","x": 1214.17, "y": 33.0959, "z": 310.61989},
+{"NombrePunto":"Ramon jaramillo 009","x": 1251.31, "y": 33.0959, "z": 310.
+
+
+
+	{"NombrePunto":"UDI 019","x": 1210.18, "y": 33.0959, "z": 294.42389},
+	{"NombrePunto":"Papeleria 020","x": 1256.73, "y": 33.0959, "z": 292.72139},
+	{"NombrePunto":"Deporte y cultura 026","x": 1208.33, "y": 33.0959, "z": 272.51311},
+	{"NombrePunto":"Dibujo 027","x": 1256.29, "y": 33.0959, "z": 271.18389},
+	{"NombrePunto":"Jorge tedavera 007","x": 1210.92, "y": 33.0959, "z": 311.26089},
+	{"NombrePunto":"Rafael reveles 008","x": 1214.37, "y": 33.0959, "z": 311.62089},
+	{"NombrePunto":"Ramon jaramillo 009","x": 1251.51, "y": 33.0959, "z": 311.32389},
+	{"NombrePunto":"Miguel angel moreno B. 010","x": 1255.00, "y": 33.0959, "z": 311.35589},
+	{"NombrePunto":"Fabricio Valdez 019","x": 1210.18, "y": 33.0959, "z": 294.42389},
+	{"NombrePunto":"Pablo 022","x": 1210.84, "y": 33.0959, "z": 272.27389},
+
+
+
+
+	{"NombrePunto":"Pesados 1","x": 1137.48, "y": 40.9959, "z": 132.78389},
+	{"NombrePunto":"piso 1","x": 1137.54, "y": 50.4959, "z": 162.28389},
+	{"NombrePunto":"Termodinamica y mecanica de fluidos 001","x": 1121.33, "y": 50.4959, "z": 193.76389},
+	{"NombrePunto":"diseño 002","x": 1156.17, "y": 50.4959, "z": 193.08389},
+	{"NombrePunto":"manufactura flexible 003","x": 1122.71, "y": 50.4959, "z": 166.08389},
+	{"NombrePunto":"Cubo 005","x": 1158.98, "y": 50.4959, "z": 164.48389},
+	{"NombrePunto":"Cubo 006","x": 1158.61, "y": 50.4959, "z": 171.78389},
+	{"NombrePunto":"Cubo 007","x": 1158.03, "y": 50.4959, "z": 182.08389},
+	{"NombrePunto":"Cubo 008","x": 1158.35, "y": 50.4959, "z": 188.16389},
+	{"NombrePunto":"cubo 009","x": 1159.15, "y": 50.4959, "z": 194.86389},
+	{"NombrePunto":"Regadoras 010","x": 1121.49, "y": 50.4959, "z": 165.28389},
+	{"NombrePunto":"Vestidores 013","x": 1152.02, "y": 50.4959, "z": 164.28389},
+	{"NombrePunto":"piso 2","x": 1137.92, "y": 41.9959, "z": 149.18389},
+	{"NombrePunto":"Control numerico y de materiales 001","x": 1138.37, "y": 41.9959, "z": 197.83389},
+	{"NombrePunto":"maquinas y herramientas 002","x": 1149.33, "y": 41.9959, "z": 193.86389},
+	{"NombrePunto":"maquinas y herramientas 006","x": 1144.37, "y": 41.9959, "z": 181.48389},
+	{"NombrePunto":"Robotica 007","x": 1125.25, "y": 41.9959, "z": 179.97389},
+	{"NombrePunto":"Trabajo terminal 008","x": 1131.69, "y": 41.9959, "z": 180.37389},
+	
+
+
+{"NombrePunto":"Flores 003","x": 1118.89, "y": 41.1959, "z": 203.09389},
+{"NombrePunto":"Jesus alvarez mantuter 002","x": 1149.74, "y": 41.1959, "z": 194.86389},
+{"NombrePunto":"Samir morena Castro","x": 1149.74, "y": 41.1959, "z": 194.86389},
+{"NombrePunto":"Regadoras 013","x": 1152.91, "y": 41.1959, "z": 149.88389},
+{"NombrePunto":"Pesados 2","x": 1222.19, "y": 40.0959, "z": 127.48389},
+{"NombrePunto":"piso 1","x": 1234.97, "y": 40.0959, "z": 170.58389},
+{"NombrePunto":"metalurgica 001","x": 1215.63, "y": 40.0959, "z": 182.88389},
+{"NombrePunto":"evaluacion sensorial 007","x": 1269.97, "y": 40.0959, "z": 197.19389},
+{"NombrePunto":"alimentos 010","x": 1258.31, "y": 40.0959, "z": 183.18389},
+{"NombrePunto":"metalurgica 023","x": 1215.73, "y": 40.0959, "z": 155.08389},
+{"NombrePunto":"alimentos 024","x": 1258.60, "y": 40.0959, "z": 155.28389},
+{"NombrePunto":"bioingenieria 026","x": 1302.63, "y": 40.0959, "z": 150.48389},
+{"NombrePunto":"armanod nañez","x": 1258.31, "y": 40.0959, "z": 183.18389},
+{"NombrePunto":"javier ramon perez","x": 1302.63, "y": 40.0959, "z": 150.48389},
+{"NombrePunto":"rasdel medina","x": 1306.74, "y": 40.0959, "z": 144.88389}
+
+
+
+
+
+  {"NombrePunto":"marta macias","x": 1246.74, "y": 40.8959, "z": 144.98389},
+  {"NombrePunto":"piso 2","x": 1239.26, "y": 50.0959, "z": -11.59611},
+  {"NombrePunto":"Ambiental 001","x": 1217.19, "y": 50.0959, "z": -16.91611},
+  {"NombrePunto":"Ambiental 006","x": 1259.68, "y": 50.0959, "z": -18.21611},
+  {"NombrePunto":"ambiental 014","x": 1209.19, "y": 50.0959, "z": -17.81611},
+  {"NombrePunto":"ambiental 017","x": 1267.17, "y": 50.0959, "z": -18.21611},
+  {"NombrePunto":"ambiental 018","x": 1206.34, "y": 50.0959, "z": -36.11611},
+  {"NombrePunto":"ambiental 022","x": 1214.11, "y": 50.0959, "z": -46.01611},
+  {"NombrePunto":"ambiental 023","x": 1256.01, "y": 50.0959, "z": -44.51611},
+  {"NombrePunto":"Jefatura 026","x": 1229.25, "y": 50.0959, "z": -55.21611},
+  {"NombrePunto":"Fatima sanches 001","x": 1217.19, "y": 50.0959, "z": -16.91611},
+  {"NombrePunto":"Horacio iechaeria","x": 1229.25, "y": 50.0959, "z": -55.21611},
+  {"NombrePunto":"Sergio sanrvala","x": 1229.25, "y": 50.0959, "z": -55.21611},
+  
+
+
+{"NombrePunto":"Luis mario gonzales R. 028","x": 1224.79, "y": 50.0959, "z": 146.58389},
+{"NombrePunto":"cubo 0.25","x": 1224.79, "y": 50.0959, "z": 146.58389},
+{"NombrePunto":"Estacionamiento 1","x": 1298.69, "y": 40.4959, "z": 142.58389},
+{"NombrePunto":"Gradas","x": -8.0,"y": 14.7959,"z": 326.88389},
+{"NombrePunto":"Bandera","x": -3.3,"y": 14.7959,"z": 311.08389},
+{"NombrePunto":"Canchas","x": -505.7,"y": 33.7559,"z": 244.48389}
+
+	
+
+	]
+}
